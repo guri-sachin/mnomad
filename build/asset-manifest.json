@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/static/css/main.a06343ce.css",
+    "main.js": "/static/js/main.2fb80c68.js",
+    "static/js/496.8542ad5e.chunk.js": "/static/js/496.8542ad5e.chunk.js",
+    "static/media/cuopleu.jpg": "/static/media/cuopleu.b9517ceb27b1efd83dff.jpg",
+    "index.html": "/index.html",
+    "main.a06343ce.css.map": "/static/css/main.a06343ce.css.map",
+    "main.2fb80c68.js.map": "/static/js/main.2fb80c68.js.map",
+    "496.8542ad5e.chunk.js.map": "/static/js/496.8542ad5e.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.a06343ce.css",
+    "static/js/main.2fb80c68.js"
+  ]
+}
